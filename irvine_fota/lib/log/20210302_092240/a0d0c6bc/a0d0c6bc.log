@@ -1,0 +1,20 @@
+210302 09:22:42.769: [MainProcess] [92] [DEBUG] [a0d0c6bc] [update_system] ********************************
+210302 09:22:42.769: [MainProcess] [93] [DEBUG] [a0d0c6bc] [update_system] (1, 'a0d0c6bc', 22222, 33333, 44444, 55555)
+210302 09:22:42.769: [MainProcess] [68] [DEBUG] [a0d0c6bc] [try_connect_device] Try connect device 1 times
+210302 09:23:05.407: [MainProcess] [82] [DEBUG] [a0d0c6bc] [connect_device] {u'displayRotation': 0, u'displaySizeDpY': 800, u'displaySizeDpX': 360, u'screenOn': True, u'currentPackageName': u'com.google.android.setupwizard', u'productName': u'T781H_EEA', u'displayWidth': 1080, u'sdkInt': 29, u'displayHeight': 2154, u'naturalOrientation': True}
+210302 09:23:05.486: [MainProcess] [166] [DEBUG] [a0d0c6bc] [skip_setup_wizard] Skip setup wizard.
+210302 09:23:59.811: [MainProcess] [101] [DEBUG] [a0d0c6bc] [update_system] Setup wizard has been skipped.
+210302 09:23:59.811: [MainProcess] [187] [DEBUG] [a0d0c6bc] [set_never_sleep] Set screen timeout: Never
+210302 09:23:59.874: [MainProcess] [148] [DEBUG] [a0d0c6bc] [enter_settings] enter settings
+210302 09:24:02.045: [MainProcess] [151] [DEBUG] [a0d0c6bc] [enter_settings] enter Display setting
+210302 09:24:07.608: [MainProcess] [535] [DEBUG] [a0d0c6bc] [back_to_home] back to home page.
+210302 09:24:13.045: [MainProcess] [148] [DEBUG] [a0d0c6bc] [enter_settings] enter settings
+210302 09:24:15.184: [MainProcess] [151] [DEBUG] [a0d0c6bc] [enter_settings] enter Network & internet setting
+210302 09:24:17.918: [MainProcess] [508] [DEBUG] [a0d0c6bc] [connect_wifi] Search hotspot-------> APPFQ
+210302 09:24:51.167: [MainProcess] [531] [DEBUG] [a0d0c6bc] [connect_wifi] wifi connect fail!!!
+210302 09:24:51.167: [MainProcess] [467] [DEBUG] [a0d0c6bc] [try_connect_wifi] Try connect 1 times
+210302 09:24:51.167: [MainProcess] [494] [DEBUG] [a0d0c6bc] [close_wifi] close wifi
+210302 09:25:16.197: [MainProcess] [535] [DEBUG] [a0d0c6bc] [back_to_home] back to home page.
+210302 09:25:23.243: [MainProcess] [148] [DEBUG] [a0d0c6bc] [enter_settings] enter settings
+210302 09:25:25.357: [MainProcess] [151] [DEBUG] [a0d0c6bc] [enter_settings] enter Network & internet setting
+210302 09:25:28.091: [MainProcess] [508] [DEBUG] [a0d0c6bc] [connect_wifi] Search hotspot-------> APPFQ

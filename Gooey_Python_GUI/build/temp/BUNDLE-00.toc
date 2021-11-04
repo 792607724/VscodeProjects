@@ -1,0 +1,3 @@
+([('temp',
+   '/Users/cgt/VscodeProjects/Gooey_Python_GUI/dist/temp',
+   'EXECUTABLE')],)

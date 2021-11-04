@@ -1,0 +1,17 @@
+---
+pluginList: []
+saveScreen: true
+reportTitle: ""
+resultDir: "20210308112457"
+waitLoading: 500
+waitLaunch: 6000
+showCancel: true
+maxTime: 3600000
+maxDepth: 10
+capability:
+  noReset: "true"
+  fullReset: "false"
+  appium: "http://127.0.0.1:4723/wd/hub"
+  appPackage: "com.android.settings"
+  appActivity: "com.android.settings.Settings"
+autoCrawl: true
